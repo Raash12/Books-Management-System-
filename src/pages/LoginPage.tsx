@@ -141,9 +141,6 @@ const LoginPage: React.FC = () => {
           </p>
         </div>
         
-        <div className="mt-6 rounded-lg bg-muted/50 p-4">
-       
-        </div>
       </motion.div>
     </AnimatedPage>
   );
