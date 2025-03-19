@@ -142,21 +142,7 @@ const LoginPage: React.FC = () => {
         </div>
         
         <div className="mt-6 rounded-lg bg-muted/50 p-4">
-          <p className="text-xs text-muted-foreground text-center">
-            Demo accounts:
-          </p>
-          <div className="mt-2 grid grid-cols-2 gap-2 text-xs">
-            <div className="rounded-md bg-background p-2">
-              <p className="font-medium">Admin</p>
-              <p className="text-muted-foreground">admin@example.com</p>
-              <p className="text-muted-foreground">password123</p>
-            </div>
-            <div className="rounded-md bg-background p-2">
-              <p className="font-medium">Regular user</p>
-              <p className="text-muted-foreground">user@example.com</p>
-              <p className="text-muted-foreground">password123</p>
-            </div>
-          </div>
+       
         </div>
       </motion.div>
     </AnimatedPage>
