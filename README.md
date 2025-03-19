@@ -88,13 +88,6 @@ yarn dev
 
 4. Open your browser and navigate to http://localhost:5173
 
-## Deployment
-
-This project can be deployed on any static hosting platform like Netlify, Vercel, or GitHub Pages.
-
-For easy deployment:
-1. Visit [Lovable](https://lovable.dev/projects/fb202afd-df2a-49f1-8409-d718181300b4)
-2. Click on Share -> Publish
 
 ## License
 
